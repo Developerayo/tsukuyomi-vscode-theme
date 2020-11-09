@@ -1,0 +1,21 @@
+{
+    "name": "Tsukuyomi",
+    "displayName": "Tsukuyomi",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tsukuyomi",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Tsukuyomi-color-theme.json"
+            }
+        ]
+    }
+}
