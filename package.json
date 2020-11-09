@@ -2,10 +2,20 @@
     "name": "Tsukuyomi",
     "displayName": "Tsukuyomi",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.5.1",
     "engines": {
         "vscode": "^1.51.0"
     },
+    "publisher": "developerayo",
+    "author": {
+        "name": "Shodipo Ayomide"
+    },
+    "license": "MIT",
+    "homepage": "",
+    "keywords": [
+        "Tsukuyomi vscodetheme" ],
+
+    "icon": "0000.jpg",
     "categories": [
         "Themes"
     ],

@@ -498,6 +498,13 @@
 		"tab.activeBackground": "#353b35",
 		"tab.activeForeground": "#d2dee7",
 		"tab.border": "#353b35",
+
+	"tab.activeBorder": "#262A39",
+    "tab.unfocusedActiveBorder": "#262A39",
+    "tab.inactiveBackground": "#1F241F",
+    "tab.inactiveForeground": "#BEBEBE",
+    "tab.unfocusedActiveForeground": "#BEBEBE",
+    "tab.unfocusedInactiveForeground": "#BEBEBE",
 		
 
 		"statusBar.background": "#4c544c",
@@ -518,14 +525,20 @@
 		"notifications.border": "#1F241F",
 		"notificationCenter.border": "#1F241F",
 		"notificationToast.border": "#1F241F",
-		"notifications.foreground": "#1F241F",
-		"notificationLink.foreground": "#1F241F",
+		"notifications.foreground": "#fff",
+		"notificationLink.foreground": "#fff",
 
 		"activityBar.background": "#1F241F",
 		"activityBar.foreground": "#BEBEBE",
 		"activityBar.border": "#1F241F",
 		"activityBarBadge.background": "#5e695e",
 		"activityBarBadge.foreground": "#ffffff",
+
+    "editorGroup.border": "#1F241F",
+    "editorGroup.dropBackground": "#7a857a",
+    "editorGroupHeader.noTabsBackground": "#1F241F",
+    "editorGroupHeader.tabsBackground": "#1F241F",
+    "editorGroupHeader.tabsBorder": "#262A39",
 		
 
 	},
