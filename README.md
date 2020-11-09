@@ -5,3 +5,5 @@ A Visual Studio Code theme for the Naruto & Anime lovers out there, all colors w
 # How it looks 🔧 
 
 
+
+

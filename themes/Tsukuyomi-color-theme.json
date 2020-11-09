@@ -112,7 +112,7 @@
 			"scope": "entity.name.tag",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#F92672"
+				"foreground": "#66D9EF"
 			}
 		},
 		{
