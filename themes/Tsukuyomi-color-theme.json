@@ -484,6 +484,12 @@
 		"editor.lineHighlightBackground": "#313831",
 		"editor.selectionBackground": "#5e695e",
 		"contrastBorder": "#1F241F",
+		"sideBar.background": "#1F241F",
+		"sideBar.foreground": "#BEBEBE",
+		"sideBar.border": "#1F241F",
+		"sideBarTitle.foreground": "#BEBEBE",
+		"sideBarSectionHeader.background": "#1F241F",
+		"sideBarSectionHeader.foreground": "#909090",
 	},
 	"name": "Tsukuyomi"
 }
