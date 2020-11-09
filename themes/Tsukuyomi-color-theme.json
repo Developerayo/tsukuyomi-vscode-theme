@@ -483,6 +483,8 @@
 		"editorWhitespace.foreground": "#787878",
 		"editor.lineHighlightBackground": "#313831",
 		"editor.selectionBackground": "#5e695e",
+		"editorLineNumber.foreground": "#808080",
+		
 		"contrastBorder": "#1F241F",
 		"sideBar.background": "#1F241F",
 		"sideBar.foreground": "#BEBEBE",
@@ -490,6 +492,35 @@
 		"sideBarTitle.foreground": "#BEBEBE",
 		"sideBarSectionHeader.background": "#1F241F",
 		"sideBarSectionHeader.foreground": "#909090",
+		"editorGroup.emptyBackground": "#1F241F",
+		"tab.activeBackground": "#353b35",
+		"tab.activeForeground": "#d2dee7",
+		"tab.border": "#353b35",
+		
+
+		"statusBar.background": "#4c544c",
+		"statusBar.foreground": "#fff",
+		"statusBar.border": "#4c544c",
+		"statusBar.debuggingBackground": "#4c544c",
+		"statusBar.debuggingForeground": null,
+		"statusBar.debuggingBorder": "#fff",
+		"statusBar.noFolderForeground": null,
+		"statusBar.noFolderBackground": "#4c544c",
+		"statusBar.noFolderBorder": "#25293A",
+		"statusBarItem.activeBackground": "#1F241F",
+		"statusBarItem.hoverBackground": "#1F241F",
+		"statusBarItem.prominentBackground": "#1F241F",
+		"statusBarItem.prominentHoverBackground": "#1F241F",
+		
+		"notifications.background": "#1F241F",
+		"notifications.border": "#1F241F",
+		"notificationCenter.border": "#1F241F",
+		"notificationToast.border": "#1F241F",
+		"notifications.foreground": "#1F241F",
+		"notificationLink.foreground": "#1F241F",
+
+		
+
 	},
 	"name": "Tsukuyomi"
 }
