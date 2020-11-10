@@ -470,6 +470,16 @@
 			}
 		},
 		{
+			"name": "Template Definition",
+			"scope": [
+				"entity.name.type.go"
+			],
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#bd575c"
+			}
+		},
+		{
 			"name": "Reset JavaScript string interpolation expression",
 			"scope": "meta.template.expression",
 			"settings": {
