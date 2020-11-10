@@ -16,6 +16,10 @@
         "Tsukuyomi vscodetheme" ],
 
     "icon": "tsukuyomi.jpg",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Developerayo/tsukuyomi-vscode-theme.git"
+    },
     "categories": [
         "Themes"
     ],
