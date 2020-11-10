@@ -112,15 +112,15 @@
 			"scope": "entity.name.tag",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#66D9EF"
+				"foreground": "#CE9FF6"
 			}
 		},
 		{
 			"name": "Tag attribute",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"fontStyle": "",
-				"foreground": "#A6E22E"
+				"fontStyle": "italic bold",
+				"foreground": "#9CCC9C"
 			}
 		},
 		{
