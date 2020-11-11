@@ -1,8 +1,8 @@
 {
     "name": "Tsukuyomi",
     "displayName": "Tsukuyomi",
-    "description": "",
-    "version": "1.0.1",
+    "description": "A visual studio code theme for all Naruto & Anime Lovers out there.",
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.51.0"
     },
@@ -13,7 +13,7 @@
     "license": "MIT",
     "homepage": "",
     "keywords": [
-        "Tsukuyomi vscodetheme" ],
+        "Tsukuyomi vscodetheme, vscode, naruto, anime, dark, developerayo" ],
 
     "icon": "tsukuyomi.jpg",
     "repository": {
