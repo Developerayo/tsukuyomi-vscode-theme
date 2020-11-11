@@ -10,7 +10,7 @@ A visual studio code theme for Naruto & Anime Lovers.
 
 </div>
 
-A Visual Studio Code theme for the Naruto & Anime lovers out there, all colors where chosen carefully from sugestions from many other Naruto/Anime loves acorss the globe and are implemented in this theme.
+A Visual Studio Code theme for the Naruto & Anime lovers out there, all colors were chosen carefully from suggestions from many other Naruto/Anime loves across the globe and are implemented in this theme.
 
 # How it looks 🔧 
 
@@ -101,7 +101,7 @@ Every colors where carefully selected from sugegestions from top Naruto / anime 
 }
 ```
 
-# Tsukuyomi is availabe on
+# Tsukuyomi is available on
 - [VSCode](https://marketplace.visualstudio.com/items?itemName=developerayo.Tsukuyomi) 
 - Sublime Text **(Coming Soon!)**
 - Atom **(Coming Soon!)**
@@ -112,4 +112,4 @@ Every colors where carefully selected from sugegestions from top Naruto / anime 
 
 This theme is released under the [MIT License](/license).
 
-✨ Designed by Shodipo Ayomide in Lagos, Nigeria
+🔥 Designed by [Shodipo Ayomide](https://twitter.com/developerayo) from Lagos, Nigeria
