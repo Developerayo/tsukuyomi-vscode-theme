@@ -6,6 +6,9 @@
     "engines": {
         "vscode": "^1.51.0"
     },
+    "maintainers": [
+		"Shodipo Ayomide <shodipovi@gmail.com>"
+	],
     "publisher": "developerayo",
     "author": {
         "name": "Shodipo Ayomide"
@@ -20,6 +23,13 @@
         "type": "git",
         "url": "https://github.com/Developerayo/tsukuyomi-vscode-theme.git"
     },
+    "bugs": {
+		"url": "https://github.com/Developerayo/tsukuyomi-vscode-theme/issues"
+    },
+    "galleryBanner": {
+		"color": "#1F241F",
+        "theme": "dark",
+    }, 
     "categories": [
         "Themes"
     ],
