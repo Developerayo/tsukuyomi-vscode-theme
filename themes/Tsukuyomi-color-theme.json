@@ -100,11 +100,61 @@
 			}
 		},
 		{
+b		"name": "TypeScript Class Variable Keyword",
+        "scope": [
+          "meta.class.ts meta.var.expr.ts storage.type.ts",
+          "meta.class.tsx meta.var.expr.tsx storage.type.tsx"
+        ],
+        "settings": {
+          "foreground": "#9018e0"
+        }
+	  },
+	  {
+	  "name": "JavaScript Class Variable Keyword",
+	  "scope": [
+		"meta.object-literal.key.js",
+	  ],
+	  "settings": {
+		  "fontStyle": "bold",
+		"foreground": "#D66990"
+	  }
+	},
+	{
+		"name": "JavaScript Class Variable Keyword",
+		"scope": [
+		  "variable.other.object.js",
+		],
+		"settings": {
+			"fontStyle": "",
+		  "foreground": "#9CCC9C"
+		}
+	  },
+	  {
+		"name": "JavaScript Class Variable Keyword",
+		"scope": [
+		  "variable.other.object.property.js",
+		],
+		"settings": {
+			"fontStyle": "",
+		  "foreground": "#FFEE99"
+		}
+	  },
+	  {
+		"name": "JavaScript Class Variable Keyword",
+		"scope": [
+		  "variable.other.property.js",
+		],
+		"settings": {
+			"fontStyle": "",
+		  "foreground": "#FFEE99"
+		}
+	  },
+		{
 			"name": "Function argument",
 			"scope": "variable.parameter",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#fff"
+				"foreground": "#d43838"
 			}
 		},
 		{
