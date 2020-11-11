@@ -12,26 +12,53 @@ A visual studio code theme for Naruto & Anime Lovers.
 
 A Visual Studio Code theme for the Naruto & Anime lovers out there, all colors were chosen carefully from suggestions from many other Naruto/Anime loves across the globe and are implemented in this theme.
 
+# Installation
+- [Install Visual Studio Code](https://code.visualstudio.com/download)
+- Launch Visual Studio Code
+- Choose Extensions from the menu
+- Search for **Tsukuyomi**
+- Click Install to install it
+- Click Reload to reload the Code
+- From the menu bar click: Code > Preferences > Color Theme > **Tsukuyomi**
+- 🌟 Rate **five-stars** to appreciate the effort behind this theme :)
+
+#### Optional: Use the recommended settings below for the best experience
+```
+{
+  "workbench.colorTheme": "Tsukuyomi",
+  "editor.lineHeight": 28,
+  "editor.letterSpacing": 0,
+    "editor.cursorStyle": "line",
+  "editor.cursorWidth": 0,
+  "editor.cursorBlinking": "blink",
+  "editor.renderWhitespace": "none",
+
+// optional: only if you use MDX Preview
+
+ "mdx-preview.preview.useVscodeMarkdownStyles": false
+}
+```
+
 # How it looks 🔧 
 
 Every color was carefully selected from suggestions from top Naruto/anime lovers who are engineers, and below is how Tsukuyomi looks:
 
-## React
+## React 
 > A JavaScript library for building user interfaces
 
 ![ReactJS Image](https://res.cloudinary.com/developerayo/image/upload/v1605105076/js.png)
 
-## Vue
+## Vue 
 > The Progressive JavaScript Framework 
 
 ![VueJS Image](https://res.cloudinary.com/developerayo/image/upload/v1605105045/vue.png)
 
-## TypeScript
+## TypeScript 
 > Typed JavaScript at Any Scale.
 
 ![TypeScript Image](https://res.cloudinary.com/developerayo/image/upload/v1605105055/tsx.png)
 
-## JSON
+## JSON 󠁻󠁻󠁻
 > A lightweight data-interchange format
 
 ![JSON Image](https://res.cloudinary.com/developerayo/image/upload/v1605105107/json.png)
@@ -76,34 +103,6 @@ Every color was carefully selected from suggestions from top Naruto/anime lovers
 > The standard markup language for documents designed to be displayed in a web browser
 
 ![HTML Image](https://res.cloudinary.com/developerayo/image/upload/v1605105091/html.png)
-
-
-# Installation
-- Install Visual Studio Code
-- Launch Visual Studio Code
-- Choose Extensions from the menu
-- Search for Tsukuyomi
-- Click Install to install it
-- Click Reload to reload the Code
-- From the menu bar click: Code > Preferences > Color Theme > Tsukuyomi
-- 🌟 Rate five-stars to appreciate the effort behind this theme :)
-
-#### Optional: Use the recommended settings below for the best experience
-```
-{
-  "workbench.colorTheme": "Tsukuyomi",
-  "editor.lineHeight": 28,
-  "editor.letterSpacing": 0,
-    "editor.cursorStyle": "line",
-  "editor.cursorWidth": 0,
-  "editor.cursorBlinking": "blink",
-  "editor.renderWhitespace": "none",
-
-// optional: only if you use MDX Preview
-
- "mdx-preview.preview.useVscodeMarkdownStyles": false
-}
-```
 
 # Tsukuyomi is available on
 - [VSCode](https://marketplace.visualstudio.com/items?itemName=developerayo.Tsukuyomi) 
