@@ -98,6 +98,10 @@ Every color was carefully selected from suggestions from top Naruto/anime lovers
   "editor.cursorWidth": 0,
   "editor.cursorBlinking": "blink",
   "editor.renderWhitespace": "none",
+
+// optional: only if you use MDX Preview
+
+ "mdx-preview.preview.useVscodeMarkdownStyles": false
 }
 ```
 
