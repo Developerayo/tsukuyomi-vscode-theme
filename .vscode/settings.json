@@ -1,3 +1,11 @@
 {
+    "workbench.colorTheme": "Tsukuyomi",
+    "editor.lineHeight": 28,
+    "editor.letterSpacing": 0,
+    "editor.cursorStyle": "line",
+    "editor.cursorWidth": 0,
+    "editor.cursorBlinking": "blink",
+    "editor.renderWhitespace": "none",
     "mdx-preview.preview.useVscodeMarkdownStyles": false
+    
 }
