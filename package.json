@@ -2,7 +2,7 @@
     "name": "Tsukuyomi",
     "displayName": "Tsukuyomi",
     "description": "A visual studio code theme for all Naruto & Anime Lovers out there.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "engines": {
         "vscode": "^1.51.0"
     },
