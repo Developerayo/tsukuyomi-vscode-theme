@@ -100,7 +100,7 @@
 			}
 		},
 		{
-b		"name": "TypeScript Class Variable Keyword",
+		"name": "TypeScript Class Variable Keyword",
         "scope": [
           "meta.class.ts meta.var.expr.ts storage.type.ts",
           "meta.class.tsx meta.var.expr.tsx storage.type.tsx"
