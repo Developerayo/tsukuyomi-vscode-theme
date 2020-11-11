@@ -14,7 +14,7 @@ A Visual Studio Code theme for the Naruto & Anime lovers out there, all colors w
 
 # How it looks 🔧 
 
-Every colors where carefully selected from sugegestions from top Naruto / anime lovers who are engineers, and below is how tsukuyomi looks:
+Every color was carefully selected from suggestions from top Naruto/anime lovers who are engineers, and below is how Tsukuyomi looks:
 
 ## React
 > A JavaScript library for building user interfaces
@@ -42,7 +42,7 @@ Every colors where carefully selected from sugegestions from top Naruto / anime 
 ![PHP Image](https://res.cloudinary.com/developerayo/image/upload/v1605105074/php.png)
 
 ## YAML
-> A human friendly data serializatio standard for all programming languages.
+> A human-friendly data serialization standard for all programming languages.
 
 ![YML Image](https://res.cloudinary.com/developerayo/image/upload/v1605105044/yml.png)
 
@@ -81,14 +81,14 @@ Every colors where carefully selected from sugegestions from top Naruto / anime 
 # Installation
 - Install Visual Studio Code
 - Launch Visual Studio Code
-- Choose Extensions from menu
+- Choose Extensions from the menu
 - Search for Tsukuyomi
 - Click Install to install it
 - Click Reload to reload the Code
 - From the menu bar click: Code > Preferences > Color Theme > Tsukuyomi
 - 🌟 Rate five-stars to appreciate the effort behind this theme :)
 
-#### Optional: Use the recommended settings below for best experience
+#### Optional: Use the recommended settings below for the best experience
 ```
 {
   "workbench.colorTheme": "Tsukuyomi",
