@@ -63,8 +63,8 @@
 			"name": "Storage",
 			"scope": "storage",
 			"settings": {
-				"fontStyle": "",
-				"foreground": "#F92672"
+				"fontStyle": "bold",
+				"foreground": "#bd575c"
 			}
 		},
 		{
