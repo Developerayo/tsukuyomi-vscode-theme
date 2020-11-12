@@ -3,7 +3,11 @@
 # Tsukuyomi 🔥 
 A visual studio code theme for Naruto & Anime Lovers.
 
-[![vscode](https://img.shields.io/badge/vscode-v1.0+-373277.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=developerayo.Tsukuyomi) [![made in nigeria](https://img.shields.io/badge/made%20in-nigeria-008751.svg?style=for-the-badge)](https://github.com/acekyd/made-in-nigeria)
+[![Version](http://vsmarketplacebadge.apphb.com/version/developerayo.Tsukuyomi.svg?subject=Tsukuyomi&colorA=#1F241F&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=developerayo.Tsukuyomi)
+[![Rating](http://vsmarketplacebadge.apphb.com/rating/developerayo.Tsukuyomi.svg?label=Ratings&colorA=#1F241F&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=developerayo.Tsukuyomi&ssr=false#review-details)
+[![Downloads](http://vsmarketplacebadge.apphb.com/downloads/developerayo.Tsukuyomi.svg)](https://marketplace.visualstudio.com/items?itemName=developerayo.Tsukuyomi&ssr=false#review-details)
+
+[![vscode](https://img.shields.io/badge/vscode-v1.0+-4DC225.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=developerayo.Tsukuyomi) [![made in nigeria](https://img.shields.io/badge/made%20in-nigeria-008751.svg?style=for-the-badge)](https://github.com/acekyd/made-in-nigeria)
 
 ![Main](https://res.cloudinary.com/developerayo/image/upload/e_shadow:40/v1605105085/Main1.png)
 
