@@ -14,9 +14,9 @@
         "name": "Shodipo Ayomide"
     },
     "license": "MIT",
-    "homepage": "",
+    "homepage": "http://shodipoayomide.com/",
     "keywords": [
-        "Tsukuyomi vscodetheme, vscode, naruto, anime, dark, developerayo" ],
+        "Tsukuyomi, vscodetheme, vscode, naruto, anime, dark, developerayo, color-theme" ],
 
     "icon": "tsukuyomi.jpg",
     "repository": {
@@ -28,10 +28,10 @@
     },
     "galleryBanner": {
 		"color": "#1F241F",
-        "theme": "dark",
+        "theme": "dark"
     }, 
     "categories": [
-        "Themes",
+        "Themes"
     ],
     "contributes": {
         "themes": [
