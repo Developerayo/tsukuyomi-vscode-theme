@@ -48,7 +48,7 @@
 			"name": "Variable",
 			"scope": "variable",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#fff"
 			}
 		},
@@ -71,7 +71,7 @@
 			"name": "Storage type",
 			"scope": "storage.type",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#56A7F9"
 			}
 		},
@@ -153,7 +153,7 @@
 			"name": "Function argument",
 			"scope": "variable.parameter",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "",
 				"foreground": "#d43838"
 			}
 		},
@@ -169,7 +169,7 @@
 			"name": "Tag attribute",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"fontStyle": "italic bold",
+				"fontStyle": "",
 				"foreground": "#9CCC9C"
 			}
 		},

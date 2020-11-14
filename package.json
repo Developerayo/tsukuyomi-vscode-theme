@@ -39,6 +39,11 @@
                 "label": "Tsukuyomi",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Tsukuyomi-color-theme.json"
+            },
+            {
+                "label": "Tsukuyomi (No Italics)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Tsukuyomi-color-theme-noitalic.json"
             }
         ]
     }
