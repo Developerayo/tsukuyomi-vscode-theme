@@ -106,7 +106,8 @@
           "meta.class.tsx meta.var.expr.tsx storage.type.tsx"
         ],
         "settings": {
-          "foreground": "#9018e0"
+			"fontStyle": "bold",
+			"foreground": "#bd575c"
         }
 	  },
 	  {
@@ -129,6 +130,18 @@
 		  "foreground": "#9CCC9C"
 		}
 	  },
+{
+
+	  "name": "TS Class Variable Keyword",
+	  "scope": [
+		"variable.other.object.ts",
+	  ],
+	  "settings": {
+		"fontStyle": "bold",
+		"foreground": "#bd575c"
+	  }
+	},
+
 	  {
 		"name": "JavaScript Class Variable Keyword",
 		"scope": [
@@ -137,6 +150,16 @@
 		"settings": {
 			"fontStyle": "",
 		  "foreground": "#FFEE99"
+		}
+	  },
+	  {
+		"name": "TS Class Variable Keyword",
+		"scope": [
+		  "variable.other.constant",
+		],
+		"settings": {
+			"fontStyle": "bold",
+		  "foreground": "#bd575c"
 		}
 	  },
 	  {
@@ -149,14 +172,49 @@
 		  "foreground": "#FFEE99"
 		}
 	  },
+
+	  {
+		{
+			"name": "TS Class Variable Keyword",
+			"scope": [
+			  "variable.other.object.property.ts",
+			],
+			"settings": {
+				"fontStyle": "",
+			  "foreground": "#eb0c0c"
+			}
+		  },
+
+	  
+
+{
+	"name": "JavaScript Class Variable Keyword",
+	"scope": [
+	  "variable.other.property.ts",
+	],
+	"settings": {
+		"fontStyle": "",
+	  "foreground": "#7ad7c7"
+	}
+  },	  
 		{
 			"name": "Function argument",
 			"scope": "variable.parameter",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#d43838"
+				"foreground": "#ffffff"
 			}
 		},
+
+		{
+			"name": "typescript",
+			"scope": "entity.name.type",
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#FFEE99"
+			}
+		},
+
 		{
 			"name": "Tag name",
 			"scope": "entity.name.tag",
@@ -229,6 +287,14 @@
 			"scope": "variable.language.namespace.php",
 			"settings": {
 				"foreground": "#D66990"
+			}
+		},
+
+		{
+			"name": "TS Namespace Keyword",
+			"scope": "variable.language.this.ts",
+			"settings": {
+				"foreground": "#7ad7c7"
 			}
 		},
 		{
